@@ -1,0 +1,23 @@
+body
+{
+	background-color: blue;
+
+}
+.complete{background-color:rgba(0,86,72,.5)}
+.inprogress{background-color: yellow;}
+.undone{background-color: gray;}
+#primarylist {background-color: black}
+
+#primarylist li{
+	font-weight: bold;
+	font-size: 12pt;
+	font-family: sans-serif;
+	letter-spacing: 12pt;
+	color: red;
+	line-height: 20px
+	font-style: italic;
+
+}
+.internalh1{
+	color: White;
+}
